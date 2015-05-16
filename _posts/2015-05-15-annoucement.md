@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Annoucement"
-description: ""
-category: 
+description: "Start of a technical blog"
+category:"announcement" 
 tags: []
 ---
 {% include JB/setup %}
