@@ -10,29 +10,28 @@ description: "Learning & Doing"
 
 ---
 <br />         
-          
+![alt text](https://dl.dropboxusercontent.com/u/17025456/png/051.png "Logo")
 ### Data Science
 * #####[Introduction to Data Science](https://www.coursera.org/course/datasci) (Rating : * * * * ; Difficulty : * * * )
 	- ##### Provided by University of Washington @ Coursera
 	- ##### Comprehensive introduction to data science , I recommend this class to people who are new to but want to know what it is data science
-
+* #####[Data Science Specialization](https://www.coursera.org/specialization/jhudatascience/1) (Rating : * * ; Difficulty : * * * )
+	- #####Provided by Johns Hopkins University @ Coursera
+	- #####Including 9 courseworks & 1 capstone project
+	- #####The capstone project is challenging and fun, but you have to pay $495 and complete 9 courseworks to get access to its capstone project
+	- #####The materials introduced are not intense, so you may well audit and skip some of them if you're not desired to earn the certificate
 
 <br />
 <br />
 
 ---
 <br />  
-
-### Programming
+![alt text](https://dl.dropboxusercontent.com/u/17025456/png/012.png "Logo")
+### Programming Language
 * ####Python:
 	* #####[Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212) (Rating : * * * * * ;  Difficulty : * * * )
 		- #####Considered the best python programming class, taught by Peter Norvig, the co-founder of Udacity
 * ####R:
-	* #####[Data Science Specialization](https://www.coursera.org/specialization/jhudatascience/1) (Rating : * * * ; Difficulty : * * * )
-		- #####Provided by Johns Hopkins University @ Coursera
-		- #####Including 9 courseworks & 1 capstone project
-		- #####The capstone project is challenging and fun, but you have to pay $495 and complete 9 courseworks to get access to its capstone project
-		- #####The materials introduced are not intense, so you may well audit and skip some of them if you're not desired to earn the certificate
 	* #####[The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-0) (Rating : * * * * ; Difficulty : * )
 		- #####Provided by MIT @ edX
 		- #####Very easy, with a lot of practice and inspiring real-world case study. A good start for R novice
@@ -42,14 +41,14 @@ description: "Learning & Doing"
 		- #####A great start for those who wanna start to learn Scala
 	* #####[Principles of Reactive Programming](https://www.coursera.org/course/reactive) (Rating : * * * ; Difficulty : * * * * )
 		- #####Provided by ETHZ and Martin Odersky( Inventor of Scala ) @ Coursera
-		- #####You'd better have some basic grasp of Scala and web service experience
+		- #####You'd better have some basic grasp of Scala and web service experience		
 <br />
 <br />
 
 ---
 <br />  
 
-
+![alt text](https://dl.dropboxusercontent.com/u/17025456/png/059.png "Logo")
 ### Machine Learning / Data Mining
 * #####[Mining Massive Datasets](https://www.coursera.org/course/mmds) (Rating : * * * * ; Difficulty : * * * * )
 	- #####Provided by Stanford University @ Coursera
@@ -69,9 +68,7 @@ description: "Learning & Doing"
 
 ---
 <br />  
-
-
-
+![alt text](https://dl.dropboxusercontent.com/u/17025456/png/075.png "Logo")
 
 ### Computer Science
 * #####[Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-2) (Rating : * * * ; Difficulty : * )
@@ -83,7 +80,7 @@ description: "Learning & Doing"
 ---
 <br />  
 
-
+![alt text](https://dl.dropboxusercontent.com/u/17025456/png/083.png "Logo")
 ### Big Data Techonologies
 * ##### To Be Announced
 
