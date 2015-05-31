@@ -11,6 +11,7 @@ description: "Learning & Doing"
 ---
 <br />         
 ![alt text](https://dl.dropboxusercontent.com/u/17025456/png/051.png "Logo")
+
 ### Data Science
 * #####[Introduction to Data Science](https://www.coursera.org/course/datasci) (Rating : * * * * ; Difficulty : * * * )
 	- ##### Provided by University of Washington @ Coursera
@@ -27,6 +28,7 @@ description: "Learning & Doing"
 ---
 <br />  
 ![alt text](https://dl.dropboxusercontent.com/u/17025456/png/012.png "Logo")
+
 ### Programming Language
 * ####Python:
 	* #####[Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212) (Rating : * * * * * ;  Difficulty : * * * )
@@ -49,6 +51,7 @@ description: "Learning & Doing"
 <br />  
 
 ![alt text](https://dl.dropboxusercontent.com/u/17025456/png/059.png "Logo")
+
 ### Machine Learning / Data Mining
 * #####[Mining Massive Datasets](https://www.coursera.org/course/mmds) (Rating : * * * * ; Difficulty : * * * * )
 	- #####Provided by Stanford University @ Coursera
