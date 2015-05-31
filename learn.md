@@ -84,6 +84,7 @@ description: "Learning & Doing"
 <br />  
 
 ![alt text](https://dl.dropboxusercontent.com/u/17025456/png/083.png "Logo")
+
 ### Big Data Techonologies
 * ##### To Be Announced
 
