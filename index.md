@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Exploring Data Science
-tagline: a blog for random exploration
+tagline: for fun
 ---
 {% include JB/setup %}
 
