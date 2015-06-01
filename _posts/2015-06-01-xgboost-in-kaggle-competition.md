@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "XGBoost in Kaggle competition"
+author: "Chan Yi Sheng"
 description: ""
 category: 
 tags: []
