@@ -4,7 +4,7 @@ title: "Learn"
 description: "Learning & Doing"
 ---
 {% include JB/setup %}
-> ####Here I regularly share my resources for learning & doing data science, mainly online courses I've taken.
+> ####Here I regularly share my resources for learning data science, mainly online courses I've taken.
 
 > ####All the ratings and comments are subjective. Any advice is welcome.
 
