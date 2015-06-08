@@ -21,9 +21,17 @@ description: "Learning & Doing"
 * #####[Data Science Specialization](https://www.coursera.org/specialization/jhudatascience/1) (Rating : * * ; Difficulty : * * * )
 	- #####Provided by Johns Hopkins University @ Coursera
 	- #####Including 9 courseworks & 1 capstone project
-	- #####The capstone project is challenging and fun, but you have to pay $495 and complete 9 courseworks to get access to its capstone project
-	- #####The materials introduced are not intense, so you may well audit and skip some of them if you're not desired to earn the certificate
-
+	- #####The capstone project is challenging and fun, but you have to pay $495 and complete 9 courseworks in order to get access to its capstone project
+	- #####The materials introduced are not intense, so you may well audit and skip some of them if you're not desired to earn the certificate or do the project
+* #####[Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651) (Rating : N/A ; Difficulty : N/A )
+	- #####Provided by Facebook @ edX
+	- #####Exploratory data analysis is an approach for summarizing and visualizing the important characteristics of a data set
+* #####[A/B Testing](https://www.udacity.com/course/ab-testing--ud257) (Rating : N/A ; Difficulty : N/A )
+	- #####Provided by Google @ edX
+	- #####A/B tests is widely used amongst internet companies to test potential improvements to a website or mobile application.
+	- #####Many data scientists are actually doing A/B testing as part of their daily jobs
+* #####[Model Building and Validation](https://www.udacity.com/course/model-building-and-validation--ud919) (Rating : N/A ; Difficulty : N/A )
+	- #####Provided by AT&T @ edX
 <br />
 <br />
 
@@ -34,7 +42,8 @@ description: "Learning & Doing"
 ### Programming Language
 * ####Python:
 	* #####[Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212) (Rating : * * * * * ;  Difficulty : * * * )
-		- #####Considered the best python programming class, taught by Peter Norvig, the co-founder of Udacity
+		- #####Considered the best python programming course, taught by Peter Norvig, the co-founder of Udacity
+		- #####This course would teach you how to become a good programmer, not just to get familiar with python
 * ####R:
 	* #####[The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-0) (Rating : * * * * ; Difficulty : * )
 		- #####Provided by MIT @ edX
@@ -42,7 +51,7 @@ description: "Learning & Doing"
 * ####Scala:
 	* #####[Functional Programming Principles in Scala](https://www.coursera.org/course/progfun) (Rating : * * * * ; Difficulty : * * * )
 		- #####Provided by ETHZ and Martin Odersky( Inventor of Scala ) @ Coursera
-		- #####A great start for those who wanna start to learn Scala
+		- #####A great start for those who wanna learn Scala as well as functional programming
 	* #####[Principles of Reactive Programming](https://www.coursera.org/course/reactive) (Rating : * * * ; Difficulty : * * * * )
 		- #####Provided by ETHZ and Martin Odersky( Inventor of Scala ) @ Coursera
 		- #####You'd better have some basic grasp of Scala and web service experience		
@@ -58,18 +67,19 @@ description: "Learning & Doing"
 * #####[Mining Massive Datasets](https://www.coursera.org/course/mmds) (Rating : * * * * ; Difficulty : * * * * )
 	- #####Provided by Stanford University @ Coursera
 	- #####It's hard, but, trust me, you'll get a lot
+	- #####This course covers data stream mining, finding similar set, recommender system, and some machine learning algorithms
 * #####[機器學習基石 Machine Learning Foundations](https://www.coursera.org/course/ntumlone) (Rating : * * * * * ; Difficulty : * * * * * )( <font color='red'>Note: It's taught in Traditional Chinese</font> )
 	- #####Provided by Prof. Hsuan-Tien Lin, National Taiwan University @ Coursera
 	- #####Prof. Hsuan-Tien Lin has co-led the teams and won 6 consectuive world champions in KDDCup (2010-2013)
 	- #####Considered to be the BEST machine learning course in Chinese world
-	- #####1st part of Machine Learning Series by Prof. Hsuan-Tien Lin
+	- #####1st part of Machine Learning Series by Prof. Hsuan-Tien Lin, this course aims to give you a comprehensive understanding of the basic mathematical foundation of machine learning
 * #####[機器學習技法 Machine Learning Techniques](https://www.coursera.org/course/ntumltwo) (Rating : * * * * * ; Difficulty : * * * * * )( <font color='red'>Note: It's taught in Traditional Chinese</font> )
 	- #####Provided by Prof. Hsuan-Tien Lin, National Taiwan University @ Coursera
 	- #####Prof. Hsuan-Tien Lin has co-led the teams and won 6 consectuive world champions in KDDCup (2010-2013)
 	- #####Considered to be the BEST machine learning course in Chinese world
 	- #####2nd part of Machine Learning Series by Prof. Hsuan-Tien Lin
 * #####[Scalable Machine Learning](https://www.edx.org/course/scalable-machine-learning-uc-berkeleyx-cs190-1x) (Rating : N/A ; Difficulty : N/A )
-	- #####Provided UCBerkeley @ edX
+	- #####Provided by UCBerkeley @ edX
 	- #####A great hands-on practice course for machine learning and Apache Spark
 * #####[Introduction to Recommender Systems](https://www.coursera.org/learn/recommender-systems) (Rating : N/A ; Difficulty : N/A )
 	- #####Comprehensive introduction to how to build a recommendation system
@@ -106,7 +116,7 @@ description: "Learning & Doing"
 
 ### Big Data Techonologies
 * #####[Introduction to Big Data with Apache Spark](https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x) (Rating : N/A ; Difficulty : N/A )
-	- #####Provided UCBerkeley @ edX
+	- #####Provided by UCBerkeley @ edX
 	- #####This is the introductory course to Apache Spark
 	- #####Apache Spark is the most popular distributed processing engine, has good support from Hadoop ecosystem
 
