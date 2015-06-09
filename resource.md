@@ -41,6 +41,7 @@ description: "Resources of doing data science"
 <br />
 
 ![alt text](https://dl.dropboxusercontent.com/u/17025456/png/051.png "Logo")
+
 ### Data Science
 * #####[Data Science at the Command Line](http://datascienceatthecommandline.com/) (Rating : * * * * )
 	- #####This hands-on guide demonstrates how the flexibility of the command line can help you become a more efficient and productive data scientist
