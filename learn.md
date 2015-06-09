@@ -50,10 +50,10 @@ description: "Learning & Doing"
 		- #####Very easy, with a lot of practice and inspiring real-world case study. A good start for R novice
 * ####Scala:
 	* #####[Functional Programming Principles in Scala](https://www.coursera.org/course/progfun) (Rating : * * * * ; Difficulty : * * * )
-		- #####Provided by ETHZ and Martin Odersky( Inventor of Scala ) @ Coursera
+		- #####Provided by EPFL and Martin Odersky( Inventor of Scala ) @ Coursera
 		- #####A great start for those who wanna learn Scala as well as functional programming
 	* #####[Principles of Reactive Programming](https://www.coursera.org/course/reactive) (Rating : * * * ; Difficulty : * * * * )
-		- #####Provided by ETHZ and Martin Odersky( Inventor of Scala ) @ Coursera
+		- #####Provided by EPFL and Martin Odersky( Inventor of Scala ) @ Coursera
 		- #####You'd better have some basic grasp of Scala and web service experience		
 <br />
 <br />
@@ -71,13 +71,12 @@ description: "Learning & Doing"
 * #####[機器學習基石 Machine Learning Foundations](https://www.coursera.org/course/ntumlone) (Rating : * * * * * ; Difficulty : * * * * * )( <font color='red'>Note: It's taught in Traditional Chinese</font> )
 	- #####Provided by Prof. Hsuan-Tien Lin, National Taiwan University @ Coursera
 	- #####Prof. Hsuan-Tien Lin has co-led the teams and won 6 consectuive world champions in KDDCup (2010-2013)
-	- #####Considered to be the BEST machine learning course in Chinese world
+	- #####Considered the BEST machine learning course in Chinese world
 	- #####1st part of Machine Learning Series by Prof. Hsuan-Tien Lin, this course aims to give you a comprehensive understanding of the basic mathematical foundation of machine learning
 * #####[機器學習技法 Machine Learning Techniques](https://www.coursera.org/course/ntumltwo) (Rating : * * * * * ; Difficulty : * * * * * )( <font color='red'>Note: It's taught in Traditional Chinese</font> )
 	- #####Provided by Prof. Hsuan-Tien Lin, National Taiwan University @ Coursera
 	- #####Prof. Hsuan-Tien Lin has co-led the teams and won 6 consectuive world champions in KDDCup (2010-2013)
-	- #####Considered to be the BEST machine learning course in Chinese world
-	- #####2nd part of Machine Learning Series by Prof. Hsuan-Tien Lin
+	- #####2nd part of Machine Learning Series by Prof. Hsuan-Tien Lin, this course aims to equip the students with both supervised and unsupervised algorithms
 * #####[Scalable Machine Learning](https://www.edx.org/course/scalable-machine-learning-uc-berkeleyx-cs190-1x) (Rating : N/A ; Difficulty : N/A )
 	- #####Provided by UCBerkeley @ edX
 	- #####A great hands-on practice course for machine learning and Apache Spark
