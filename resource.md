@@ -23,7 +23,8 @@ description: "Resources of doing data science"
 	- #####If you want to learn machine learning / mathematical statistics in a very comprehensive and hard-core (mathematical) way, this book is definitely among the best of all choices
 * #####[Statistical Data Mining Tutorials { <font color='red'>Online tutorials</font> }](http://www.autonlab.org/tutorials/list.html) (Rating : * * * * * )
 	- #####Provided by Andrew Moore
-	- #####A great series of tutorial cover both statistics and machine learning concepts, definitely worth the time
+	- #####A great series of tutorial cover both statistics and machine learning concepts, definitely worth studying
+	- #####Today, many professors at CMU still refer to these tutorials when explaning the key concepts in machine learning
 * #####[The Elements of Statistical Learning { <font color='red'>Book</font> }](http://statweb.stanford.edu/~tibs/ElemStatLearn/) (Rating : * * * * )
 	- #####This book equips its reader with statitical learning concepts in a very comprehensive and hard-core (mathematical) way, this book is definitely among the best of all choices
 
@@ -35,7 +36,7 @@ description: "Resources of doing data science"
 ![alt text](https://dl.dropboxusercontent.com/u/17025456/png/036.png "Logo")
 
 ### Natural Language Processing
-* #####[Natural Language Processing with Python](http://shop.oreilly.com/product/9780596516499.do) (Rating : * * * )
+* #####[Natural Language Processing with Python { <font color='red'>Book</font> }](http://shop.oreilly.com/product/9780596516499.do) (Rating : * * * )
 	- #####You just cannot walk away after reading this book without not knowing how to do text analysis using NLTK
 	
 	
@@ -48,7 +49,7 @@ description: "Resources of doing data science"
 ![alt text](https://dl.dropboxusercontent.com/u/17025456/png/051.png "Logo")
 
 ### Data Science
-* #####[Data Science at the Command Line](http://datascienceatthecommandline.com/) (Rating : * * * * )
+* #####[Data Science at the Command Line { <font color='red'>Book</font> }](http://datascienceatthecommandline.com/) (Rating : * * * * )
 	- #####This hands-on guide demonstrates how the flexibility of the command line can help you become a more efficient and productive data scientist
 	- #####You'll learn how to combine small, yet powerful, command-line tools to quickly obtain, scrub, explore, and model your data
 	
