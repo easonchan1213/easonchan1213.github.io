@@ -13,14 +13,19 @@ description: "Resources of doing data science"
 
 ![alt text](https://dl.dropboxusercontent.com/u/17025456/png/059.png "Logo")
 
-### Machine Learning / Data Mining / Statistics in general
-* #####[Programming Collective Intelligence](http://shop.oreilly.com/product/9780596529321.do) (Rating : * * * )
+### Machine Learning / Data Mining / Statistics
+* #####[Programming Collective Intelligence { <font color='red'>Book</font> }](http://shop.oreilly.com/product/9780596529321.do) (Rating : * * * )
 	- #####If you don't want to learn machine learning in depth and want to use machine learning as quick as possible, this book is for you
 	- #####A lot of practices in Python code
 	- #####Less mathematical equation, more hands-on practices using machine learning techniques
 	- #####Not so good for those who want to know the nuts and bolts of machine learning algorithms
-* #####[Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/) (Rating : * * * * * )
-	- #####If you want to learn machine learning / mathematical statistics in a very comprehensive and hard-core (mathematical) way, this book is definitely the best of all choices
+* #####[Pattern Recognition and Machine Learning { <font color='red'>Book</font> }](http://research.microsoft.com/en-us/um/people/cmbishop/prml/) (Rating : * * * * * )
+	- #####If you want to learn machine learning / mathematical statistics in a very comprehensive and hard-core (mathematical) way, this book is definitely among the best of all choices
+* #####[Statistical Data Mining Tutorials { <font color='red'>Online tutorials</font> }](http://www.autonlab.org/tutorials/list.html) (Rating : * * * * * )
+	- #####Provided by Andrew Moore
+	- #####A great series of tutorial cover both statistics and machine learning concepts, definitely worth the time
+* #####[The Elements of Statistical Learning { <font color='red'>Book</font> }](http://statweb.stanford.edu/~tibs/ElemStatLearn/) (Rating : * * * * )
+	- #####This book equips its reader with statitical learning concepts in a very comprehensive and hard-core (mathematical) way, this book is definitely among the best of all choices
 
 
 
@@ -48,4 +53,3 @@ description: "Resources of doing data science"
 	- #####You'll learn how to combine small, yet powerful, command-line tools to quickly obtain, scrub, explore, and model your data
 	
 	
-

@@ -64,10 +64,10 @@ description: "Learning & Doing"
 ![alt text](https://dl.dropboxusercontent.com/u/17025456/png/059.png "Logo")
 
 ### Machine Learning / Data Mining
-* #####[Mining Massive Datasets](https://www.coursera.org/course/mmds) (Rating : * * * * ; Difficulty : * * * * )
+* #####[Mining Massive Datasets](https://www.coursera.org/course/mmds) (Rating : * * * * * ; Difficulty : * * * * )
 	- #####Provided by Stanford University @ Coursera
 	- #####It's hard, but, trust me, you'll get a lot
-	- #####This course covers data stream mining, finding similar set, recommender system, and some machine learning algorithms
+	- #####This course covers data stream mining, finding similar set, recommender system, and some modern machine learning algorithms
 * #####[機器學習基石 Machine Learning Foundations](https://www.coursera.org/course/ntumlone) (Rating : * * * * * ; Difficulty : * * * * * )( <font color='red'>Note: It's taught in Traditional Chinese</font> )
 	- #####Provided by Prof. Hsuan-Tien Lin, National Taiwan University @ Coursera
 	- #####Prof. Hsuan-Tien Lin has co-led the teams and won 6 consectuive world champions in KDDCup (2010-2013)
