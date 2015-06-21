@@ -21,13 +21,14 @@ description: "Resources of doing data science"
 	- #####Not so good for those who want to know the nuts and bolts of machine learning algorithms
 * #####[Pattern Recognition and Machine Learning { <font color='red'>Book</font> }](http://research.microsoft.com/en-us/um/people/cmbishop/prml/) (Rating : * * * * * )
 	- #####If you want to learn machine learning / mathematical statistics in a very comprehensive and hard-core (mathematical) way, this book is definitely among the best of all choices
+	- #####Mathematics-oriented
 * #####[Statistical Data Mining Tutorials { <font color='red'>Online tutorials</font> }](http://www.autonlab.org/tutorials/list.html) (Rating : * * * * * )
 	- #####Provided by Andrew Moore
 	- #####A great series of tutorial cover both statistics and machine learning concepts, definitely worth studying
 	- #####Today, many professors at CMU still refer to these tutorials when explaning the key concepts in machine learning
 * #####[The Elements of Statistical Learning { <font color='red'>Book</font> }](http://statweb.stanford.edu/~tibs/ElemStatLearn/) (Rating : * * * * )
 	- #####This book equips its reader with statitical learning concepts in a very comprehensive and hard-core (mathematical) way, this book is definitely among the best of all choices
-
+	- #####Mathematics-oriented
 
 
 ---

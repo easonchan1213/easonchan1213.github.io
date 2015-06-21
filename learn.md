@@ -25,6 +25,7 @@ description: "Learning & Doing"
 	- #####The materials introduced are not intense, so you may well audit and skip some of them if you're not desired to earn the certificate or do the project
 * #####[Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651) (Rating : N/A ; Difficulty : N/A )
 	- #####Provided by Facebook @ edX
+	- #####This class deals with R (well...obviously)
 	- #####Exploratory data analysis is an approach for summarizing and visualizing the important characteristics of a data set
 * #####[A/B Testing](https://www.udacity.com/course/ab-testing--ud257) (Rating : N/A ; Difficulty : N/A )
 	- #####Provided by Google @ edX
@@ -32,6 +33,8 @@ description: "Learning & Doing"
 	- #####Many data scientists are actually doing A/B testing as part of their daily jobs
 * #####[Model Building and Validation](https://www.udacity.com/course/model-building-and-validation--ud919) (Rating : N/A ; Difficulty : N/A )
 	- #####Provided by AT&T @ edX
+	- #####Advanced class in model building, requires enrolled students to have basic knowledge of statistics and machine learning
+	- #####This class is taught in python
 <br />
 <br />
 
@@ -88,6 +91,10 @@ description: "Learning & Doing"
 	- #####This is the second course in the 3-course Machine Learning Series and is offered at Georgia Tech @ Udacity
 * #####[Machine Learning: Reinforcement Learning](https://www.udacity.com/course/machine-learning-reinforcement-learning--ud820) (Rating : N/A ; Difficulty : N/A )
 	- #####This is the last course in the 3-course Machine Learning Series and is offered at Georgia Tech @ Udacity
+* #####[Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about) (Rating : N/A ; Difficulty : N/A )
+	- #####Provided by Trevor Hastie & Rob Tibshirani @ Stanford Online
+	- #####Their book is a classic in statistical learning, so is this course. In the class, they teach you the genreal concept of statistical learning and bring you hands-on practice with R.
+
 
 <br />
 <br />
