@@ -99,6 +99,25 @@ description: "Learning & Doing"
 <br />
 <br />
 
+
+---
+<br />         
+<br />
+![alt text](https://dl.dropboxusercontent.com/u/17025456/png/036.png "Logo")
+
+### Natural Language Processing
+* #####[Text Mining and Analytics](https://class.coursera.org/textanalytics-001/) (Rating : N/A )
+	- #####Provided by UIUC @ Coursera, it's a part of \<Data Mining Specialization by UIUC\>
+	- #####Focuses mainly on probablistic models of text mining, including topic modeling, which I used it in building a semantic-aware recommender system
+	- #####Deep Learning in NLP is not covered in this class, if you would love to learn the state-of-the-art application of deep learning in NLP, please refer to the following:
+	
+* #####[Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/) (Rating : N/A )
+	- #####Provided by Stanford University, but it's not a MOOC class. However you can still get access to the materials and assignment anyway
+	- #####State-of-the-art technology, definitely worth effort and time
+	
+	
+
+
 ---
 <br />  
 ![alt text](https://dl.dropboxusercontent.com/u/17025456/png/075.png "Logo")
@@ -125,7 +144,7 @@ description: "Learning & Doing"
 	- #####Provided by UCBerkeley @ edX
 	- #####This is the introductory course to Apache Spark
 	- #####Apache Spark is the most popular distributed processing engine, has good support from Hadoop ecosystem
-
+	- #####Python, pyspark and ipython notebook are the tools used in this class
 
 
 
