@@ -67,6 +67,10 @@ description: "Learning & Doing"
 ![alt text](https://dl.dropboxusercontent.com/u/17025456/png/059.png "Logo")
 
 ### Machine Learning / Data Mining
+* #####[Machine Learning](https://www.coursera.org/course/mmds) (Rating : * * * * * ; Difficulty : * * * )
+	- #####Provided by Andrew Ng, Stanford University @ Coursera
+	- #####It's the most famous class taught by a cofounder of Coursera. Needless to say, it's definitely recommended to be your first class toward Machine Learning
+	- #####Covers basic foundation of Machine Learning, however it's rather practice-oriented than math-oriented
 * #####[Mining Massive Datasets](https://www.coursera.org/course/mmds) (Rating : * * * * * ; Difficulty : * * * * )
 	- #####Provided by Stanford University @ Coursera
 	- #####It's hard, but, trust me, you'll get a lot
