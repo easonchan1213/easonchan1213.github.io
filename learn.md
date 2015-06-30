@@ -93,25 +93,25 @@ description: "Learning & Doing"
 	- #####This is the last course in the 3-course Machine Learning Series and is offered at Georgia Tech @ Udacity
 * #####[Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about) (Rating : N/A ; Difficulty : N/A )
 	- #####Provided by Trevor Hastie & Rob Tibshirani @ Stanford Online
-	- #####Their book is a classic in statistical learning, so is this course. In the class, they teach you the genreal concept of statistical learning and bring you hands-on practice with R.
+	- #####Their book is a classic in statistical learning, so is this course. In the class, they teach you the genreal concept of statistical learning and bring you hands-on practice with R
 
 
 <br />
 <br />
 
 
----
-<br />         
+---  
 <br />
 ![alt text](https://dl.dropboxusercontent.com/u/17025456/png/036.png "Logo")
 
 ### Natural Language Processing
-* #####[Text Mining and Analytics](https://class.coursera.org/textanalytics-001/) (Rating : N/A )
+* #####[Text Mining and Analytics](https://class.coursera.org/textanalytics-001/) (Rating : N/A ; Difficulty : N/A )
 	- #####Provided by UIUC @ Coursera, it's a part of \<Data Mining Specialization by UIUC\>
-	- #####Focuses mainly on probablistic models of text mining, including topic modeling, which I used it in building a semantic-aware recommender system
+	- #####Main purpose of this class is to give you the tools and foundation needed to enable you to dig into more recent research papers
+	- #####Focuses mainly on probablistic models (aka math) of text mining, including topic modeling, which I used it in building a semantic-aware recommender system. Also covers Contextual Topic Mining and Analysis (for analyzing text data using non-text as context), Ordinal Logistic Regression (for sentiment classification) and Latent Aspect Rating Analysis (for detailed mining of opinions in online reviews) 
 	- #####Deep Learning in NLP is not covered in this class, if you would love to learn the state-of-the-art application of deep learning in NLP, please refer to the following:
 	
-* #####[Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/) (Rating : N/A )
+* #####[Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/) (Rating : N/A ; Difficulty : N/A )
 	- #####Provided by Stanford University, but it's not a MOOC class. However you can still get access to the materials and assignment anyway
 	- #####State-of-the-art technology, definitely worth effort and time
 	
@@ -140,10 +140,11 @@ description: "Learning & Doing"
 ![alt text](https://dl.dropboxusercontent.com/u/17025456/png/083.png "Logo")
 
 ### Big Data Techonologies
-* #####[Introduction to Big Data with Apache Spark](https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x) (Rating : N/A ; Difficulty : N/A )
+* #####[Introduction to Big Data with Apache Spark](https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x) (Rating : * * * * ; Difficulty : * * )
 	- #####Provided by UCBerkeley @ edX
 	- #####This is the introductory course to Apache Spark
 	- #####Apache Spark is the most popular distributed processing engine, has good support from Hadoop ecosystem
+	- #####You'll know the basic pyspark syntax and how to perform analysis on large dataset, and you'd be amazed at how easy it is to write distributed algorithms under Spark framework
 	- #####Python, pyspark and ipython notebook are the tools used in this class
 
 
