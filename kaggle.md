@@ -7,10 +7,11 @@ description: "sharing of knowledge on some useful tricks I found in Kaggle forum
 > ####sharing of knowledge on some useful tricks I found in Kaggle forum threads
 
 
+ 
+#[Criteo CTR prediction](https://www.kaggle.com/c/criteo-display-ad-challenge)
 
-
-#Winner's solution : [Criteo CTR prediction](https://www.kaggle.com/c/criteo-display-ad-challenge)
 ###reference : I encourage you to read them through cause you might come across something that's new to you but not to me
+
 https://www.kaggle.com/c/criteo-display-ad-challenge/forums/t/10555/3-idiots-solution-libffm
 
 
