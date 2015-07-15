@@ -10,7 +10,6 @@ tags: []
 
 ===
 
-<!DOCTYPE html>
 <html>
 <head>
 
@@ -78,9 +77,9 @@ a:hover,a:focus{color:#005580;text-decoration:underline}
 .offset3{margin-left:260px}
 .offset2{margin-left:180px}
 .offset1{margin-left:100px}
-.row-fluid{width:100%;*zoom:1}.row-fluid:before,.row-fluid:after{display:table;content:"";line-height:0}
+.row-fluid{width:50%;*zoom:1}.row-fluid:before,.row-fluid:after{display:table;content:"";line-height:0}
 .row-fluid:after{clear:both}
-.row-fluid [class*="span"]{display:block;width:100%;min-height:30px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;float:left;margin-left:2.127659574468085%;*margin-left:2.074468085106383%}
+.row-fluid [class*="span"]{display:block;width:50%;min-height:30px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;float:left;margin-left:2.127659574468085%;*margin-left:2.074468085106383%}
 .row-fluid [class*="span"]:first-child{margin-left:0}
 .row-fluid .controls-row [class*="span"]+[class*="span"]{margin-left:2.127659574468085%}
 .row-fluid .span12{width:100%;*width:99.94680851063829%}
