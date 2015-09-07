@@ -6,7 +6,7 @@ description: "sharing of knowledge on some useful tricks I found in Kaggle forum
 {% include JB/setup %}
 > ####sharing of knowledge on some useful tricks I found in Kaggle forum threads
 
-> ####Include : model stacking(ensemble), feature engineering
+> ####Include : <font color='blue'>model stacking(ensemble) (Ottogroup)</font>, <font color='blue'>feature engineering (Criteo)</font>
 
 ---
 <br />  
