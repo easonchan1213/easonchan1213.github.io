@@ -6,6 +6,7 @@ description: "sharing of knowledge on some useful tricks I found in Kaggle forum
 {% include JB/setup %}
 > ####sharing of knowledge on some useful tricks I found in Kaggle forum threads
 
+> ####Include : model stacking(ensemble), feature engineering
 
 ---
 <br />  
@@ -59,7 +60,7 @@ features. :)
 ###reference :
 1. https://www.kaggle.com/c/otto-group-product-classification-challenge/forums/t/14335/1st-place-winner-solution-gilberto-titericz-stanislav-semenov
 
-###Ensembled model
+###Ensembled model :
 **1st PLACE SOLUTION - Gilberto Titericz & Stanislav Semenov**
 
 First, thanks to Organizers and Kaggle for such great competition.
