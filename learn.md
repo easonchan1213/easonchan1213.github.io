@@ -23,14 +23,15 @@ description: "Learning & Doing"
 	- #####Including 9 courseworks & 1 capstone project
 	- #####The capstone project is challenging and fun, but you have to pay $495 and complete 9 courseworks in order to get access to its capstone project
 	- #####The materials introduced are not intense, so you may well audit and skip some of them if you're not desired to earn the certificate or do the project
+	- #####The capstone project is very vaguely constructed, you need to work your ass off to get this done.
 * #####[Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651) (Rating : N/A ; Difficulty : N/A )
 	- #####Provided by Facebook @ edX
 	- #####This class deals with R (well...obviously)
 	- #####Exploratory data analysis is an approach for summarizing and visualizing the important characteristics of a data set
-* #####[A/B Testing](https://www.udacity.com/course/ab-testing--ud257) (Rating : N/A ; Difficulty : N/A )
+* #####[A/B Testing](https://www.udacity.com/course/ab-testing--ud257) (Rating : * * * * ; Difficulty : * )
 	- #####Provided by Google @ edX
-	- #####A/B tests is widely used amongst internet companies to test potential improvements to a website or mobile application.
-	- #####Many data scientists are actually doing A/B testing as part of their daily jobs
+	- #####A/B tests is widely used amongst internet companies to test potential improvements to a website or mobile application.Many data scientists are actually doing A/B testing as part of their daily jobs.
+	- #####This class teaches in a broad-to-narrow manner, you can learn not only high-level concepts but also low-level implementation.
 * #####[Model Building and Validation](https://www.udacity.com/course/model-building-and-validation--ud919) (Rating : N/A ; Difficulty : N/A )
 	- #####Provided by AT&T @ edX
 	- #####Advanced class in model building, requires enrolled students to have basic knowledge of statistics and machine learning
