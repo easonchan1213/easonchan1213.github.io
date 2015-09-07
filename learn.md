@@ -85,9 +85,11 @@ description: "Learning & Doing"
 	- #####Provided by Prof. Hsuan-Tien Lin, National Taiwan University @ Coursera
 	- #####Prof. Hsuan-Tien Lin has co-led the teams and won 6 consectuive world champions in KDDCup (2010-2013)
 	- #####2nd part of Machine Learning Series by Prof. Hsuan-Tien Lin, this course aims to equip the students with both supervised and unsupervised algorithms
-* #####[Scalable Machine Learning](https://www.edx.org/course/scalable-machine-learning-uc-berkeleyx-cs190-1x) (Rating : N/A ; Difficulty : N/A )
-	- #####Provided by UCBerkeley @ edX
+* #####[Scalable Machine Learning](https://www.edx.org/course/scalable-machine-learning-uc-berkeleyx-cs190-1x) (Rating : * * * * * ; Difficulty : * * )
+	- #####Provided by UCBerkeley @ edX (part 2 of Big Data XSeries)
 	- #####A great hands-on practice course for machine learning and Apache Spark
+	- #####After this class you will be familiar with using Apache Spark MLlib API to produce data products based on machine learning in a simplified manner
+	- #####Python, pyspark and ipython notebook are the tools used in this class
 * #####[Introduction to Recommender Systems](https://www.coursera.org/learn/recommender-systems) (Rating : N/A ; Difficulty : N/A )
 	- #####Comprehensive introduction to how to build a recommendation system
 * #####[Machine Learning: Supervised Learning](https://www.udacity.com/course/machine-learning-supervised-learning--ud675) (Rating : N/A ; Difficulty : N/A )
@@ -116,10 +118,22 @@ description: "Learning & Doing"
 	- #####Focuses mainly on probablistic models (aka math) of text mining, including topic modeling, which I used it in building a semantic-aware recommender system. Also covers Contextual Topic Mining and Analysis (for analyzing text data using non-text as context), Ordinal Logistic Regression (for sentiment classification) and Latent Aspect Rating Analysis (for detailed mining of opinions in online reviews) 
 	- #####Deep Learning in NLP is not covered in this class, if you would love to learn the state-of-the-art application of deep learning in NLP, please refer to the following:
 	
+	
 * #####[Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/) (Rating : N/A ; Difficulty : N/A )
 	- #####Provided by Stanford University, but it's not a MOOC class. However you can still get access to the materials and assignment anyway
-	- #####State-of-the-art technology, definitely worth effort and time
+
+
+* #####[Natural Language Processing](https://www.coursera.org/course/nlangp) (Rating : N/A ; Difficulty : N/A )
+	- #####Provided by Michael Collins, Columbia University
+	- #####Very good introduction to NLP, much emphasis on basic understanding and algorithms
+	- #####Lacks real-world cases / applications based on the algorithms taught in class
+		
+* #####[Natural Language Processing](https://class.coursera.org/nlp/lecture) (Rating : N/A ; Difficulty : N/A )
+	- #####Provided by Dan Jurafsky/Christopher Manning, Stanford University
+	- #####Much emphasis on the real-world case / applications, perfect complement to the NLP course by Michael Collins
 	
+
+
 	
 
 
@@ -146,7 +160,7 @@ description: "Learning & Doing"
 
 ### Big Data Techonologies
 * #####[Introduction to Big Data with Apache Spark](https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x) (Rating : * * * * ; Difficulty : * * )
-	- #####Provided by UCBerkeley @ edX
+	- #####Provided by UCBerkeley @ edX (part 1 of Big Data XSeries)
 	- #####This is the introductory course to Apache Spark
 	- #####Apache Spark is the most popular distributed processing engine, has good support from Hadoop ecosystem
 	- #####You'll know the basic pyspark syntax and how to perform analysis on large dataset, and you'd be amazed at how easy it is to write distributed algorithms under Spark framework
