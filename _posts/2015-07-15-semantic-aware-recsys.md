@@ -1635,7 +1635,6 @@ body {
 }
 
 div#notebook {
-  overflow: visible;
   border-top: none;
 }
 
@@ -1686,6 +1685,8 @@ div#notebook {
   <div tabindex="-1" id="notebook" class="border-box-sizing">
     <div class="container" id="notebook-container">
 
+This is a sample display of the semantic-aware recommender system I make (Articles in Chinese).
+
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">
@@ -1702,7 +1703,6 @@ In&nbsp;[2]:
 
 <div class="output_wrapper">
 <div class="output">
-
 
 <div class="output_area"><div class="prompt"></div>
 <div class="output_subarea output_stream output_stdout output_text">
